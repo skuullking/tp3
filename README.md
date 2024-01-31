@@ -5,6 +5,6 @@
 - `contributor-3`: AlpinooO Group B
 
 ## Fork urls
-- `contributor-1`: [quotes-Mezreah-b](url-1)
-- `contributor-2`: [quotes-Pmaioranool-b](url-2)
-- `contributor-3`: [quotes-AlpinooO-b](url-3)
+- `contributor-1`: [quotes-Mezreah-b](https://github.com/Mezreah/tp3-Yanis.git)
+- `contributor-2`: [quotes-Pmaioranool-b](https://github.com/Pmaioranool/tp3-.git)
+- `contributor-3`: [quotes-AlpinooO-b](https://github.com/AlpinooO/tp3-.git)
